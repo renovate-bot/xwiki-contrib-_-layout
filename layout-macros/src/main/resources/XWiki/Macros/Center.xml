@@ -48,27 +48,28 @@ $services.localization.render('rendering.macro.center.description')
 
 {{code}}
 {{center}}
-my centered text
+=== centred Title ===
+
+my centred text
 
 Hello world
-
-=== centered Title ===
 {{/center}}
 {{/code}}
 
 {{center}}
-my centered text
+=== centred Title ===
 
+my centred text
 
 Hello world
-
-=== centered Title ===
 {{/center}}
-
 
 {{code}}
 {{center class="custom-css-class"}}
 [[image:Sandbox.WebHome@XWikiLogo.png]]
+
+|=Table|=Other
+|Hello|World
 {{/center}}
 {{/code}}
 
