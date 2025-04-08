@@ -441,7 +441,7 @@ Hello world
       <contentJavaType>Wiki</contentJavaType>
     </property>
     <property>
-      <contentType>Optional</contentType>
+      <contentType>Mandatory</contentType>
     </property>
     <property>
       <defaultCategories/>
