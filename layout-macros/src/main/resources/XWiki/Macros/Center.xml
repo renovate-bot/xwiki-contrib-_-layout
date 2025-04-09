@@ -444,7 +444,7 @@ Hello world
       <contentType>Mandatory</contentType>
     </property>
     <property>
-      <defaultCategories/>
+      <defaultCategories>Layout</defaultCategories>
     </property>
     <property>
       <description/>
